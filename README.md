@@ -12,7 +12,7 @@ source env/bin/activate
 pip install sty
 
 # run all tests:
-python tests/controller.py
+`python tests/controller.py`
 ````
 
 
